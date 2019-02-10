@@ -14,7 +14,8 @@ public class UserService {
         String formatedDateTime = localDatetime.format(formatter);
 
         //write user to file
-        System.out.println(usr.getName()+" -->"+formatedDateTime);
+        //System.out.println(usr.getName()+" -->"+formatedDateTime);
+
         String path = "filesdata/"+usr.getName()+"-"+formatedDateTime+".txt";
 
         try {

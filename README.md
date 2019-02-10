@@ -7,7 +7,6 @@ from inside the app folder run
 To run the app
 ----------------
 
-mvn exec:java -D exec.mainClass=com.proto.app
-
+gst
 Run the app from within the IDE
 
