@@ -37,5 +37,6 @@
     <orderEntry type="library" name="Maven: com.github.jknack:handlebars-guava-cache:4.0.6" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:14.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:${protobuf.version}" level="project" />
   </component>
 </module>
