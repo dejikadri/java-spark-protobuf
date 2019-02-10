@@ -7,6 +7,14 @@ from inside the app folder run
 To run the app
 ----------------
 
-gst
 Run the app from within the IDE
 
+use Postman and go to the url
+
+pass the below json to the body of a post request
+
+{
+	"name":"Adedeji",
+	"id":1
+
+}
