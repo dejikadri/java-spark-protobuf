@@ -13,8 +13,10 @@ use Postman and go to the url
 
 pass the below json to the body of a post request
 
+```
 {
 	"name":"Adedeji",
 	"id":1
 
 }
+```
